@@ -1,3 +1,11 @@
-Technologies:Javascript;HTML;Bootstrap;CSS.
+# How to Run
 
-HOW TO RUN: Open [index.html], insert city name and search!
+-Open [index.html], insert city name and search!
+
+
+### Technologies
+
+- Javascript
+- HTML
+- CSS
+- Bootstrap
