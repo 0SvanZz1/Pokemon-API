@@ -1,6 +1,6 @@
 # How to Run
 
--Open [index.html], insert city name and search!
+-Download .ZIP --> Open [index.html], insert city name and search!
 
 
 ### Technologies
